@@ -1,0 +1,145 @@
+{
+    "retroGames": [
+      {
+        "id": 1,
+        "name": "Mario Bros",
+        "imageUrl": "https://www.eltelegrafo.com.ec/media/k2/items/cache/874a870c9dc4a8634ca6e17731f1875d_XL.jpg",
+        "overview": "Mario Bros is a game where Mario and Luigi must defeat creatures coming from the sewers.",
+        "price": 60
+      },
+      {
+        "id": 2,
+        "name": "The Legend of Zelda",
+        "imageUrl": "https://ap-cdn.sfo3.digitaloceanspaces.com/uploads/2023/11/the-legend-of-zelda-pelicula-nintendo.jpg",
+        "overview": "The Legend of Zelda is an action-adventure game featuring Link on a quest to rescue Princess Zelda.",
+        "price": 50
+      },
+      {
+        "id": 3,
+        "name": "Pac-Man",
+        "imageUrl": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2022/04/pac-man-2682107.jpg?tf=3840x",
+        "overview": "Pac-Man is an arcade game where the player controls Pac-Man through a maze, eating pellets and avoiding ghosts.",
+        "price": 40
+      },
+      {
+        "id": 4,
+        "name": "Donkey Kong",
+        "imageUrl": "https://www.mundodeportivo.com/alfabeta/hero/2023/09/donkey.1694419543.5916.jpg?width=1200",
+        "overview": "Donkey Kong is an arcade game where the player controls Jumpman (Mario) to save Pauline from Donkey Kong.",
+        "price": 45
+      },
+      {
+        "id": 5,
+        "name": "Tetris",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3cZ0JQ6wfeZWmnhUtDSVrM6r1Jh6JkIv39w&s",
+        "overview": "Tetris is a puzzle game where players must fit falling tetrominoes into complete lines.",
+        "price": 30
+      },
+      {
+        "id": 6,
+        "name": "Space Invaders",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/0f/Space_Invaders_flyer%2C_1978.jpg",
+        "overview": "Space Invaders is a shooter game where players defeat waves of aliens with a laser cannon.",
+        "price": 35
+      },
+      {
+        "id": 7,
+        "name": "Metroid",
+        "imageUrl": "https://i.blogs.es/3eeef9/metroid_samus_returns_character_artwork/1366_2000.jpeg",
+        "overview": "Metroid is a sci-fi action-adventure game where players control Samus Aran on a mission to retrieve stolen Metroid creatures.",
+        "price": 55
+      },
+      {
+        "id": 8,
+        "name": "Mega Man",
+        "imageUrl": "https://image.api.playstation.com/cdn/UP0102/CUSA12385_00/wzPsv8QZojn4oWa5isviICPDksxVKq6f.png",
+        "overview": "Mega Man is a side-scrolling platform game where players control a robot named Mega Man to defeat evil robots.",
+        "price": 50
+      },
+      {
+        "id": 9,
+        "name": "Castlevania",
+        "imageUrl": "https://i.scdn.co/image/ab67616d00001e02ffb064eccf4ae54bf79994e4",
+        "overview": "Castlevania is an action-platformer where players control Simon Belmont on a quest to defeat Dracula.",
+        "price": 45
+      },
+      {
+        "id": 10,
+        "name": "Street Fighter II",
+        "imageUrl": "https://assetsio.gnwcdn.com/street-fighter-duel-art-cropped.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp",
+        "overview": "Street Fighter II is a fighting game where players compete in one-on-one battles with various characters.",
+        "price": 60
+      },
+      {
+        "id": 11,
+        "name": "Sonic the Hedgehog",
+        "imageUrl": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_3ds_download_software_7/SI_3DSDS_3DSonicTheHedgehog_image1600w.jpg",
+        "overview": "Sonic the Hedgehog is a platformer where players control Sonic to stop Dr. Robotnik from taking over the world.",
+        "price": 50
+      },
+      {
+        "id": 12,
+        "name": "Contra",
+        "imageUrl": "https://i.blogs.es/eed12c/contra-pelicula/450_1000.jpg",
+        "overview": "Contra is a run-and-gun game where players control commandos to fight against an alien invasion.",
+        "price": 40
+      },
+      {
+        "id": 13,
+        "name": "Final Fantasy",
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3005/537b5208a8ee42935286a44b3b981da86d976bf54899bf98.jpg",
+        "overview": "Final Fantasy is an RPG where players control the Warriors of Light to save the world from darkness.",
+        "price": 55
+      },
+      {
+        "id": 14,
+        "name": "Double Dragon",
+        "imageUrl": "https://static.wikia.nocookie.net/doblaje/images/a/af/DobleDragon.png/revision/latest?cb=20170825002945&path-prefix=es",
+        "overview": "Double Dragon is a beat 'em up game where players control martial artists to rescue a kidnapped girl.",
+        "price": 45
+      },
+      {
+        "id": 15,
+        "name": "Duck Hunt",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/14/DuckHuntBox.jpg",
+        "overview": "Duck Hunt is a shooter game where players use a light gun to shoot ducks on screen.",
+        "price": 35
+      },
+      {
+        "id": 16,
+        "name": "Galaga",
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1510/BIETxuxo3AaeBTnyKRh68I7x.jpg",
+        "overview": "Galaga is a fixed shooter arcade game where players control a spaceship to destroy enemy formations.",
+        "price": 30
+      },
+      {
+        "id": 17,
+        "name": "Frogger",
+        "imageUrl": "https://m.media-amazon.com/images/I/51aUb1xoN5S._AC_UF894,1000_QL80_.jpg",
+        "overview": "Frogger is an arcade game where players guide a frog across a busy road and a river full of hazards.",
+        "price": 25
+      },
+      {
+        "id": 18,
+        "name": "Punch-Out!!",
+        "imageUrl": "https://static.wikia.nocookie.net/punchout-nintendo/images/6/6d/Super_Punch-Out%21%21_SNES.jpg/revision/latest?cb=20210423133622&path-prefix=es",
+        "overview": "Punch-Out!! is a boxing game where players control Little Mac to fight various opponents.",
+        "price": 40
+      },
+      {
+        "id": 19,
+        "name": "Q*bert",
+        "imageUrl": "https://images.sftcdn.net/images/t_app-icon-m/p/bce5018a-fdc5-4ca5-a127-b38760523c8c/3492262992/qbert-logo",
+        "overview": "Q*bert is an arcade game where players control a character to change the colors of a pyramid of cubes.",
+        "price": 30
+      },
+      {
+        "id": 20,
+        "name": "Dragon's Lair",
+        "imageUrl": "https://assets1.ignimgs.com/2019/01/17/dragons-lair-1---button-1547765872630.jpg",
+        "overview": "Dragon's Lair is an interactive movie game where players guide Dirk the Daring to rescue Princess Daphne.",
+        "price": 65
+      }
+    ]
+  }
+  
